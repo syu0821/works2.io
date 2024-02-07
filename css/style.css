@@ -1256,6 +1256,7 @@ body {
 }
 .qa-box__head-icon {
   font-family: "Montserrat", sans-serif;
+  color: #111;
   font-size: 22px;
   font-weight: 700;
   line-height: 100%;
